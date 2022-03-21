@@ -1,7 +1,7 @@
 ## Hello there 👋, I am Alper Mehmet Özdemir!
 
 ---
-I am a new graduate computer engineer from Bilkent University that has a keen interest in web development. I primarily use JavaScript with the React.js library and Express.js backend framework.
+I am a new graduate computer engineer (BEng.) from Bilkent University that has a keen interest in web development. I primarily use JavaScript with the React.js library and Express.js backend framework.
 
 I also use Java and Python and have used Python's Django framework to create websites as well.
 
