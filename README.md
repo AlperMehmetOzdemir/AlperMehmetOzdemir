@@ -1,21 +1,16 @@
-## Hello there 👋, I am Alper Mehmet Özdemir!
+## Hello There 👋, I'm Alper Mehmet Özdemir!
 
 ---
-I am a new graduate computer engineer (BEng.) from Bilkent University that has a keen interest in web development. I primarily use JavaScript with the React.js library and Express.js backend framework.
-
-I also use Java and Python and have used Python's Django framework to create websites as well.
+I am a Software Developer keen interest in providing interseting and intuitive experiences. I currently use Angular.js and Nest.js for full-stack development.
 
 - 🔭 I’m currently working on:
-  -  Creating a personal portfolio website that I can be proud of.
+  -  Improving myself on database knowledge.
+  -  Creating Vampire Survivor inspired game with Godot.
+  -  Refreshing knowledge on React.
 - 🌱 I’m currently learning:
-  - Software Design Patterns
-  - Next.js
-  - TypeScript
+  - Godot
 - 📖 I am currently reading:
-  - Head First Desing Patterns, 2nd Edition
-  - Eloquent JavaScript
-  - Clean Code_ A Handbook of Agile Software Craftsmanship
-  - The Wheel of Time: The Great Hunt 
+  - Database Internals
 - 📫 How to reach me: amehmet97@hotmail.com
 
 ---
@@ -29,18 +24,3 @@ I also use Java and Python and have used Python's Django framework to create web
 ### Metrics
 
 ![Metrics](https://metrics.lecoq.io/AlperMehmetOzdemir?template=classic&config.timezone=Europe%2FIstanbul)
-
-<!--
-**AlperMehmetOzdemir/AlperMehmetOzdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
